@@ -1,3 +1,2 @@
-# Divine-AI
-This is my first repository.
-This is my first comment
+# Data Science Project-1
+
